@@ -1,0 +1,17 @@
+body{
+  background-image: image(metro_union_crew.jpg);
+  margin: 0px auto;
+}
+
+.text{
+  color: black;
+  font: 40px Arial black;
+}
+
+.metro-bar {
+  background-color: #241e20;
+}
+
+.metro-bar a {
+  color: white;
+}
