@@ -5,7 +5,7 @@ body{
 
 .text{
   color: black;
-  font: 100px Arial black;
+  font: 40px Arial black;
 }
 
 .metro-bar {
@@ -14,15 +14,4 @@ body{
 
 .metro-bar a {
   color: white;
-}
-
-.overskrift{
-  color: black;
-  font: 120px Arial black;s
-}
-
-.venstrefloat{
-  float: left;
-  font-style: oblique;
-  font: 100px Arial black;
 }
